@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-04T09:29:40.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="olCyVHTUY-F1M8fODfoh" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-04T09:32:18.564Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="CYrwHKq_5pQAkQ3_yDf9" version="16.5.3" type="github">
   <diagram id="LuPeQzwik2U_Rn_hpSFn" name="Page-1">
     <mxGraphModel dx="2675" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -331,54 +331,6 @@
         </mxCell>
         <mxCell id="qh33kZJX-8ZDi_T8noX5-288" value="Mongo DB Router" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="qh33kZJX-8ZDi_T8noX5-282" vertex="1">
           <mxGeometry x="-9" y="130" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qh33kZJX-8ZDi_T8noX5-289" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="577.3600000000001" y="911.8199999999999" width="272.64" height="640.1800000000001" as="geometry" />
-        </mxCell>
-        <mxCell id="qh33kZJX-8ZDi_T8noX5-290" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=12;strokeWidth=1;rotation=90;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
-          <mxGeometry x="-118.32000000000001" y="26.68" width="160.37000000000003" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="qh33kZJX-8ZDi_T8noX5-291" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://simpleitpro.com/wp-content/uploads/2018/08/vm-logo4.png;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
-          <mxGeometry x="-94" y="87" width="45.71" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qh33kZJX-8ZDi_T8noX5-292" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;dashed=1;fontSize=12;rotation=90;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
-          <mxGeometry x="-57.99999999999999" y="33" width="30.000000000000007" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="qh33kZJX-8ZDi_T8noX5-293" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://simpleitpro.com/wp-content/uploads/2018/08/vm-logo4.png;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
-          <mxGeometry x="-27.999999999999986" y="87" width="45.71" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qh33kZJX-8ZDi_T8noX5-294" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.checkpoint.com/wp-content/uploads/microsoft-azure-load-balancer-logo.png;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
-          <mxGeometry x="-74.5" y="7" width="63" height="51.85" as="geometry" />
-        </mxCell>
-        <mxCell id="qh33kZJX-8ZDi_T8noX5-295" value="MDM Catalog DB&lt;br&gt;PostgreSQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
-          <mxGeometry x="-98.13999999999999" y="127" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qh33kZJX-8ZDi_T8noX5-296" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;fontSize=12;fillColor=none;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
-          <mxGeometry x="-584" y="-23" width="624" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="qh33kZJX-8ZDi_T8noX5-298" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
-          <mxGeometry x="-12.290000000000006" y="26.68" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qh33kZJX-8ZDi_T8noX5-299" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
-          <mxGeometry x="-468.36" y="8.850000000000023" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kvbM0w6Y4D3NOCrXjX8S-223" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://symbols.getvecta.com/stencil_27/4_active-directory.c05d84f017.png;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
-          <mxGeometry x="181.5" y="72.86000000000013" width="34.28" height="34.28" as="geometry" />
-        </mxCell>
-        <mxCell id="kvbM0w6Y4D3NOCrXjX8S-227" value="Azure &lt;br&gt;Defender" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
-          <mxGeometry x="163.64" y="19.680000000000064" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kvbM0w6Y4D3NOCrXjX8S-225" value="Azure AD &lt;br&gt;(RBAC)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
-          <mxGeometry x="163.64" y="108.18000000000006" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ffDwMJdTiTaNuA7kVt9q-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=12;strokeWidth=1;rotation=90;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
-          <mxGeometry x="21.139999999999873" y="5.1200000000000045" width="142.5" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="ffDwMJdTiTaNuA7kVt9q-14" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://simpleitpro.com/wp-content/uploads/2018/08/vm-logo4.png;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
-          <mxGeometry x="69.29999999999995" y="19.139999999999986" width="45.71" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ffDwMJdTiTaNuA7kVt9q-15" value="Splunk DR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
-          <mxGeometry x="52.159999999999854" y="94.13999999999999" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qh33kZJX-8ZDi_T8noX5-300" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="259" y="918.8199999999999" width="190" height="168.58999999999997" as="geometry" />
@@ -1155,6 +1107,60 @@
         </mxCell>
         <mxCell id="kvbM0w6Y4D3NOCrXjX8S-82" value="SIAVAL PKI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-222.06" y="624.0399999999998" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qh33kZJX-8ZDi_T8noX5-289" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="577.3600000000001" y="911.8199999999999" width="272.64" height="640.1800000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="qh33kZJX-8ZDi_T8noX5-290" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=12;strokeWidth=1;rotation=90;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
+          <mxGeometry x="-118.32000000000001" y="26.68" width="160.37000000000003" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qh33kZJX-8ZDi_T8noX5-291" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://simpleitpro.com/wp-content/uploads/2018/08/vm-logo4.png;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
+          <mxGeometry x="-94" y="87" width="45.71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qh33kZJX-8ZDi_T8noX5-292" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;dashed=1;fontSize=12;rotation=90;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
+          <mxGeometry x="-57.99999999999999" y="33" width="30.000000000000007" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="qh33kZJX-8ZDi_T8noX5-293" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://simpleitpro.com/wp-content/uploads/2018/08/vm-logo4.png;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
+          <mxGeometry x="-27.999999999999986" y="87" width="45.71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qh33kZJX-8ZDi_T8noX5-294" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.checkpoint.com/wp-content/uploads/microsoft-azure-load-balancer-logo.png;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
+          <mxGeometry x="-74.5" y="7" width="63" height="51.85" as="geometry" />
+        </mxCell>
+        <mxCell id="qh33kZJX-8ZDi_T8noX5-295" value="MDM Catalog DB&lt;br&gt;PostgreSQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
+          <mxGeometry x="-98.13999999999999" y="127" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qh33kZJX-8ZDi_T8noX5-296" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;fontSize=12;fillColor=none;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
+          <mxGeometry x="-584" y="-23" width="624" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qh33kZJX-8ZDi_T8noX5-298" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
+          <mxGeometry x="-12.290000000000006" y="26.68" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qh33kZJX-8ZDi_T8noX5-299" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
+          <mxGeometry x="-468.36" y="8.850000000000023" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kvbM0w6Y4D3NOCrXjX8S-223" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://symbols.getvecta.com/stencil_27/4_active-directory.c05d84f017.png;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
+          <mxGeometry x="181.5" y="72.86000000000013" width="34.28" height="34.28" as="geometry" />
+        </mxCell>
+        <mxCell id="kvbM0w6Y4D3NOCrXjX8S-227" value="Azure &lt;br&gt;Defender" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
+          <mxGeometry x="163.64" y="19.680000000000064" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kvbM0w6Y4D3NOCrXjX8S-225" value="Azure AD &lt;br&gt;(RBAC)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
+          <mxGeometry x="163.64" y="108.18000000000006" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ffDwMJdTiTaNuA7kVt9q-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=12;strokeWidth=1;rotation=90;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
+          <mxGeometry x="21.139999999999873" y="5.1200000000000045" width="142.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ffDwMJdTiTaNuA7kVt9q-14" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://simpleitpro.com/wp-content/uploads/2018/08/vm-logo4.png;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
+          <mxGeometry x="69.29999999999995" y="19.139999999999986" width="45.71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ffDwMJdTiTaNuA7kVt9q-15" value="Splunk DR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
+          <mxGeometry x="52.159999999999854" y="94.13999999999999" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ_5mszynxJBEABBtCQP-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg;" vertex="1" parent="qh33kZJX-8ZDi_T8noX5-289">
+          <mxGeometry x="177.35" y="68.55000000000001" width="42.57" height="42.9" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ_5mszynxJBEABBtCQP-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="750.3600000000001" y="354.9999999999999" width="42.57" height="42.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
