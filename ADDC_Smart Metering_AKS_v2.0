@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T05:04:47.200Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="bbxqdAbYo2ZWtMYrl3zT" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-01T14:33:39.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="mT7Lv3GGR1drFCfrvoGQ" version="20.0.1" type="github">
   <diagram id="LuPeQzwik2U_Rn_hpSFn" name="Page-1">
-    <mxGraphModel dx="4239" dy="2631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3222" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -641,9 +641,6 @@
         <mxCell id="kvbM0w6Y4D3NOCrXjX8S-311" value="Azure &lt;br&gt;Defender" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="742" y="312.05065359477123" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kvbM0w6Y4D3NOCrXjX8S-312" value="Azure AD &lt;br&gt;(RBAC)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="742" y="400.26143790849665" width="70" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="kvbM0w6Y4D3NOCrXjX8S-313" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="260" y="292.43496732026136" width="214.08999999999992" height="168.03905228758168" as="geometry" />
         </mxCell>
@@ -681,7 +678,7 @@
           <mxGeometry x="646.88" y="-3.7210130718954817" width="110" height="29.901960784313726" as="geometry" />
         </mxCell>
         <mxCell id="kvbM0w6Y4D3NOCrXjX8S-328" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.seb8iaan.com/wp-content/uploads/2020/09/Email-notifications-from-Azure-Security-Center-improved-0.png;" parent="1" vertex="1">
-          <mxGeometry x="754.46" y="271.4338235294117" width="40.09756483238456" height="40.09756483238456" as="geometry" />
+          <mxGeometry x="754.46" y="271.43" width="38.57" height="38.57" as="geometry" />
         </mxCell>
         <mxCell id="kvbM0w6Y4D3NOCrXjX8S-329" value="Monitor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="747" y="230.4183006535946" width="60" height="20" as="geometry" />
@@ -1240,9 +1237,6 @@
         <mxCell id="uJ_5mszynxJBEABBtCQP-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg;" parent="qh33kZJX-8ZDi_T8noX5-289" vertex="1">
           <mxGeometry x="177.35" y="68.55000000000001" width="42.57" height="42.9" as="geometry" />
         </mxCell>
-        <mxCell id="uJ_5mszynxJBEABBtCQP-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg;" parent="1" vertex="1">
-          <mxGeometry x="750.3600000000001" y="354.9999999999999" width="42.57" height="42.9" as="geometry" />
-        </mxCell>
         <mxCell id="yoVo1SqjSwmkzTL3USuO-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-414.32" y="644.04" width="70" height="61.26" as="geometry" />
         </mxCell>
@@ -1296,6 +1290,15 @@
         </mxCell>
         <mxCell id="yoVo1SqjSwmkzTL3USuO-55" value="Optional" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-209.00000000000003" y="551.1462091503267" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Q63BHxpvhQ1tMx4-9-jW-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="742" y="354.9999999999999" width="70" height="85.26143790849676" as="geometry" />
+        </mxCell>
+        <mxCell id="kvbM0w6Y4D3NOCrXjX8S-312" value="Azure AD &lt;br&gt;(RBAC)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="Q63BHxpvhQ1tMx4-9-jW-1" vertex="1">
+          <mxGeometry y="45.26143790849676" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ_5mszynxJBEABBtCQP-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg;" parent="Q63BHxpvhQ1tMx4-9-jW-1" vertex="1">
+          <mxGeometry x="8.360000000000127" width="42.57" height="42.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
