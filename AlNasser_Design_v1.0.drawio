@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T20:46:37.623Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="imKa5p2G5v7kumQYDAeD" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T20:47:55.690Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="PntDKY_dhXYEQx7npAl4" version="21.0.6" type="github">
   <diagram name="Page-1" id="-Rhnz9SSrFt-8Gb-ef3p">
     <mxGraphModel dx="2758" dy="2230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,6 +37,14 @@
         </mxCell>
         <mxCell id="dj0Ey-xcIrCxgGk_O2B6-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="535.94" y="-160" width="174.06" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="dj0Ey-xcIrCxgGk_O2B6-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="dj0Ey-xcIrCxgGk_O2B6-22" target="dj0Ey-xcIrCxgGk_O2B6-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="255" />
+              <mxPoint x="20" y="285" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dj0Ey-xcIrCxgGk_O2B6-22" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://www.pngkey.com/png/full/365-3652347_business-internet-communist-symbolism.png" vertex="1" parent="1">
           <mxGeometry x="-140" y="230" width="50" height="50" as="geometry" />
@@ -476,6 +484,16 @@
         </mxCell>
         <mxCell id="dj0Ey-xcIrCxgGk_O2B6-179" value="&lt;span&gt;VNet Peering&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="876.6299999999999" y="389.55" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dj0Ey-xcIrCxgGk_O2B6-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=1;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dj0Ey-xcIrCxgGk_O2B6-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="265" as="sourcePoint" />
+            <mxPoint x="190" y="295" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="410" />
+              <mxPoint x="20" y="295" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
