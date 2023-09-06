@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T19:56:06.422Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aRI5Sh6lSiuLLjgPdzLX" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T20:16:58.715Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3mQ9gyCl0PtPQcs1aAiA" version="21.7.0" type="github">
   <diagram name="Page-1" id="-S0vMJgSOeUa3yra3O5a">
-    <mxGraphModel dx="2440" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3235" dy="2345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="ZN_Vx1n1vfZxGkJz-T1u-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="550" y="20" width="200" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="ZN_Vx1n1vfZxGkJz-T1u-8" value="Hub - VNet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="ZN_Vx1n1vfZxGkJz-T1u-8" value="Hub - VPC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="610" y="20" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZN_Vx1n1vfZxGkJz-T1u-12" value="AWS Firewall" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
