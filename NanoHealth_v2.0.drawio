@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T13:52:30.925Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Q1nEqSFE5fqd3GcRRiVd" version="21.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T13:56:29.351Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="N9uirQRnvDkZ4pzanPc4" version="21.7.3" type="github">
   <diagram name="Page-1" id="-S0vMJgSOeUa3yra3O5a">
-    <mxGraphModel dx="2440" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2318" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -416,9 +416,6 @@
         </mxCell>
         <mxCell id="NxSrU-hnp1lV-nPcbtmf-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://chsakell.files.wordpress.com/2017/08/azure-cosmos-documentdb-06.png;" parent="1" vertex="1">
           <mxGeometry x="158.65000000000003" y="808.69" width="57.15" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NxSrU-hnp1lV-nPcbtmf-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://chsakell.files.wordpress.com/2017/08/azure-cosmos-documentdb-06.png;" parent="1" vertex="1">
-          <mxGeometry x="168.65000000000003" y="818.69" width="57.15" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NxSrU-hnp1lV-nPcbtmf-27" value="Mongo Atlas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="152.22000000000008" y="844.55" width="80" height="30" as="geometry" />
